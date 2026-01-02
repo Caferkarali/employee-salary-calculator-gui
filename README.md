@@ -41,10 +41,7 @@ $$\text{Wage} = \left( \frac{\text{Daily Hours}}{8} \right) \times \left( \frac{
     python main.py
     ```
 
-## 📸 Screenshots
-*(You can add a screenshot of your app here after running it)*
-## 🤝 Contribution
-Contributions are welcome! Feel free to submit a Pull Request.
+
 
 ## 📝 License
 This project is open-source and available under the MIT License.
